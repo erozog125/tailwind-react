@@ -3,5 +3,5 @@
 @tailwind utilities;
 
 .linkNav {
-  @apply w-28 rounded-full bg-pink-400 my-2 text-white text-center text-xl italic hover:bg-red-700 hover:text-white hover:border-r-red-200;
+  @apply w-28 bg-cyan-500 rounded-full my-2 text-center text-xl italic hover:text-white hover:border-r-red-200;
 }
